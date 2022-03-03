@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "async": "^2.5.0",
-    "jxt": "^3.0.1",
+    "jxt": "github:vnc-biz/jxt#configurable",
     "request": "^2.53.0",
     "xhr": "^2.0.1"
   },
